@@ -1,0 +1,24 @@
+{
+    "data": {
+        "result": [{
+            "authorID": "171",
+            "avatar": "https://shp.qpic.cn/cfwebcap/0/6b2c8eafe85b75f3526a3a2205e331eb/0",
+            "iDocID": "1722400938757653373",
+            "iNewsId": "27159545",
+            "iSourceId": "1722400938757653373",
+            "iTotalPlay": "1587541",
+            "sAuthor": "LPL赛事资讯",
+            "sCreated": "2019-09-08 20:05:56",
+            "sIMG": "//shp.qpic.cn/cfwebcap/0/f31fa8462d56592190653ece925e19be/0/?width=686\u0026height=368",
+            "sIdxTime": "2019-09-08 20:06:12",
+            "sTagIds": "1293,1283",
+            "sTitle": "三支LPL全球总决赛代表队伍出炉"
+        }],
+        "resultNum": 16,
+        "resultPage": 1,
+        "resultTotal": 564
+    },
+    "from": "go",
+    "msg": "OK",
+    "status": 1
+}
